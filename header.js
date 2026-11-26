@@ -12,6 +12,7 @@ document.getElementById("header").innerHTML = `
     <a href="#youtube">YouTube</a>
     <a href="#ai-studio">AI Studio</a>
     <a href="#about">About</a>
+    <a href="games.html">Games</a>
   </nav>
 </header>
 `;
